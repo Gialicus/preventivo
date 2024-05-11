@@ -1,0 +1,6 @@
+@import "../node_modules/ag-grid-community/styles/ag-grid.css";
+@import "../node_modules/ag-grid-community/styles/ag-theme-material.css";
+@import "https://fonts.googleapis.com/css?family=Roboto";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
